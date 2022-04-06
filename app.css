@@ -1,0 +1,16 @@
+body {
+    background-color: #E88D67;
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+}
+
+.sub {
+    display: flex;
+    justify-content: center;
+
+}
